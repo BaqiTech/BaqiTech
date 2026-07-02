@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nadim Shaikh</h1>
 
-<h3 align="center">Building Technology That Lasts.</h3>
+<div align="center">
 
-<p align="center">
-Full Stack Developer • Software Freelancer • Founder of <strong>BaqiTech</strong>
+<h1>Building Technology That Lasts.</h1>
+
+<h3>Full Stack Developer • Software Freelancer • Founder of BaqiTech</h3>
+
+<p>
+Helping startups, founders, and businesses transform ideas into modern websites,<br>
+mobile apps, custom software, cloud solutions, and AI-powered products.
 </p>
 
-<p align="center">
-I build modern digital products that are fast, scalable, and built for long-term growth.<br>
-Helping startups and businesses transform ideas into production-ready software.
-</p>
-
+</div>
 ---
 
 ## 🚀 Services
