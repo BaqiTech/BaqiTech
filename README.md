@@ -4,7 +4,7 @@
 
 <h1>Building Technology That Lasts.</h1>
 
-<h3>Full Stack Developer • Software Freelancer • Founder of BaqiTech</h3>
+<h3>Full Stack Developer • Software Freelancer</h3>
 
 <p>
 Helping startups, founders, and businesses transform ideas into modern websites,<br>
