@@ -100,7 +100,7 @@ mobile apps, custom software, cloud solutions, and AI-powered products.
 https://baqitech.com
 
 💼 **LinkedIn**  
-https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+https://linkedin.com/in/nadim-shaikh-1934ab41b
 
 📧 **Email**  
 hello@baqitech.com
